@@ -1,0 +1,15 @@
+.card.mdl-card {
+    width: 80%;
+    margin-top: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+}
+
+.text_loading {
+    font-size: 40px;
+    text-align: center;
+    margin-top: 20%;
+    position: relative;
+    height: 300px;
+}

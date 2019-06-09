@@ -1,4 +1,5 @@
 import React, { Component, Fragment } from 'react';
+import Loading from '../../components/Loading';
 import axios from 'axios';
 import  './style.css'
 
@@ -63,11 +64,15 @@ class Product extends Component {
     );
   }
 
+  renderLoading(){
+    return (
+      <Loading />
+    )
+  }
+
   render() {
     const { loading } = this.state;
-    return loading ?
-        <div className="text_loading">Carregando...</div> :
-        this.renderContent();
+    return loading ? this.renderLoading() : this.renderContent();
   }
 }
   

@@ -1,6 +1,5 @@
 
 import React ,{Component}from 'react';
-import logo from './logo.svg';
 import {BrowserRouter  as Router} from 'react-router-dom'
 import Header  from './components/Header'
 import Routes from'./routes';
@@ -11,7 +10,7 @@ class App extends Component{
      <div className="mdl-layout">
        <Router>
          <Header /> 
-         <Routes/>
+         <Routes />
        </Router>
     </div>
   );

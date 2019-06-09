@@ -1,0 +1,32 @@
+.mdl-layout__tab-panel {
+  padding: 10px;
+}
+
+.mdl-textfield {
+  width: 100%;
+}
+
+.static-width {
+  width: 100%;
+}
+
+.item {
+  padding: 0px;
+  font-size: 14px;
+  border-bottom: 1px solid lightgrey;
+  font-weight: 300;
+}
+
+.item-image {
+  padding-left: 16px;
+  padding-right: 16px;
+  width: 100px;
+  height: 100px;
+  padding-top: 4px;
+  padding-bottom: 3px;
+  text-align: center;
+}
+
+:link {
+  text-decoration: none;
+}

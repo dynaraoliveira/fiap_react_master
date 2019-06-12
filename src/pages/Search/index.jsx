@@ -29,8 +29,8 @@ class Search extends Component {
 
   renderItem(item) {
     return (
-      <Link to={`/product/${ item.id }`}>
-        <li className="mdl-list__item item" key={ item.id }>
+      <Link to={`/product/${ item.id }`} key={ item.id }>
+        <li className="mdl-list__item item">
           <div className="mdl-grid static-width">
             <div className="mdl-cell mdl-cell--2-col mdl-cell--2-col-tablet mdl-cell--2-col-phone item-image">
               <img src={item.thumbnail} />

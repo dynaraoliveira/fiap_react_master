@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fiap_react_master/static/css/main.72af513c.chunk.css",
-    "main.js": "/fiap_react_master/static/js/main.c8b69bd7.chunk.js",
-    "main.js.map": "/fiap_react_master/static/js/main.c8b69bd7.chunk.js.map",
+    "main.js": "/fiap_react_master/static/js/main.ab48b446.chunk.js",
+    "main.js.map": "/fiap_react_master/static/js/main.ab48b446.chunk.js.map",
     "runtime~main.js": "/fiap_react_master/static/js/runtime~main.858a751c.js",
     "runtime~main.js.map": "/fiap_react_master/static/js/runtime~main.858a751c.js.map",
     "static/js/2.7400cc32.chunk.js": "/fiap_react_master/static/js/2.7400cc32.chunk.js",
     "static/js/2.7400cc32.chunk.js.map": "/fiap_react_master/static/js/2.7400cc32.chunk.js.map",
     "index.html": "/fiap_react_master/index.html",
-    "precache-manifest.2d54336071cd79939a2437e2189602db.js": "/fiap_react_master/precache-manifest.2d54336071cd79939a2437e2189602db.js",
+    "precache-manifest.0b75a8def7b93c775abfd282713cf6c1.js": "/fiap_react_master/precache-manifest.0b75a8def7b93c775abfd282713cf6c1.js",
     "service-worker.js": "/fiap_react_master/service-worker.js",
     "static/css/main.72af513c.chunk.css.map": "/fiap_react_master/static/css/main.72af513c.chunk.css.map"
   }

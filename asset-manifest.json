@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fiap_react_master/static/css/main.6a354fe3.chunk.css",
-    "main.js": "/fiap_react_master/static/js/main.642ee58e.chunk.js",
-    "main.js.map": "/fiap_react_master/static/js/main.642ee58e.chunk.js.map",
+    "main.css": "/fiap_react_master/static/css/main.72af513c.chunk.css",
+    "main.js": "/fiap_react_master/static/js/main.cd07adc4.chunk.js",
+    "main.js.map": "/fiap_react_master/static/js/main.cd07adc4.chunk.js.map",
     "runtime~main.js": "/fiap_react_master/static/js/runtime~main.858a751c.js",
     "runtime~main.js.map": "/fiap_react_master/static/js/runtime~main.858a751c.js.map",
-    "static/js/2.34d4a37c.chunk.js": "/fiap_react_master/static/js/2.34d4a37c.chunk.js",
-    "static/js/2.34d4a37c.chunk.js.map": "/fiap_react_master/static/js/2.34d4a37c.chunk.js.map",
+    "static/js/2.7400cc32.chunk.js": "/fiap_react_master/static/js/2.7400cc32.chunk.js",
+    "static/js/2.7400cc32.chunk.js.map": "/fiap_react_master/static/js/2.7400cc32.chunk.js.map",
     "index.html": "/fiap_react_master/index.html",
-    "precache-manifest.33b4be93981be86025c277b3ed9348c9.js": "/fiap_react_master/precache-manifest.33b4be93981be86025c277b3ed9348c9.js",
+    "precache-manifest.fbdff2968ee66f5b62e6e5eb5154ec1c.js": "/fiap_react_master/precache-manifest.fbdff2968ee66f5b62e6e5eb5154ec1c.js",
     "service-worker.js": "/fiap_react_master/service-worker.js",
-    "static/css/main.6a354fe3.chunk.css.map": "/fiap_react_master/static/css/main.6a354fe3.chunk.css.map"
+    "static/css/main.72af513c.chunk.css.map": "/fiap_react_master/static/css/main.72af513c.chunk.css.map"
   }
 }

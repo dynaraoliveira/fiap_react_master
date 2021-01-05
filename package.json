@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://dynaraoliveira.github.io/fiap_react_master",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "react": "^16.8.6",
     "react-currency-formatter": "^1.1.0",
     "react-dom": "^16.8.6",
